@@ -27,6 +27,8 @@
 
 ## Flow-схема
 
+![Flow обработки текстового обращения](docs/flow.png)
+
 Редактируемая схема: [`docs/flow.drawio`](docs/flow.drawio). Файл открывается в [diagrams.net](https://app.diagrams.net/).
 
 ## Стек
