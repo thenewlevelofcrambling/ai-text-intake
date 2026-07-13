@@ -1,0 +1,7 @@
+{
+  "category": "technical_issue",
+  "priority": "high",
+  "summary": "Клиент не может войти в личный кабинет после смены пароля",
+  "needs_human": true,
+  "confidence": 0.94
+}
